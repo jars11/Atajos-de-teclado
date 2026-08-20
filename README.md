@@ -5,6 +5,10 @@ Puede crear sus propios atajos de teclado añadiéndolos a un archivo "atajos.tx
 
 Ambos archivos "Atajos de teclado.exe" y "atajos txt" deben estar en una misma carpeta.
 
+## Aspecto de la GUI:
+
+<img width="1086" height="909" alt="image" src="https://github.com/user-attachments/assets/744a0a85-4d1b-4375-8901-f42c8828ca2f" />
+
 ## Observaciones:  
 • Dado que el programa no está firmado digitalmente, Windows le mostrará un aviso si intenta ejecutarlo. Puede ejecutarlo dando click en "Más información" y luego "Ejecutar de todas formas".
 
@@ -14,7 +18,4 @@ Ambos archivos "Atajos de teclado.exe" y "atajos txt" deben estar en una misma c
 
 • El programa corre los atajos en segundo plano, es decir que el programa sigue activo aún habiendo cerrado la ventana del programa. Para cerrarlo completamente debe hacerlo desde la sección de íconos ocultos en la barra de tareas.  
 
-## Aspecto de la GUI:
-
-<img width="1086" height="909" alt="image" src="https://github.com/user-attachments/assets/744a0a85-4d1b-4375-8901-f42c8828ca2f" />
 
